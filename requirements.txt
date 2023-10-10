@@ -1,0 +1,4 @@
+pandas
+yfinance
+apscheduler
+oandapyV20
